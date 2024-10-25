@@ -1,1 +1,2 @@
 Some text in text file number 1Adding this change on the main branch
+Some text in text file number 1Adding this change on the conflict branch
