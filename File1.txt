@@ -1,1 +1,1 @@
-Some text in text file number 1
+Some text in text file number 1Adding this change on the conflict branch
